@@ -2,15 +2,15 @@
 ***
 **1. Definition**
 
-[Link](https://opensource.com/resources/what-docker)
+> [Link](https://opensource.com/resources/what-docker)
 
-**Docker** is a tool designed to make it easier to create, deploy, and run applications by using containers.
+- **Docker** is a tool designed to make it easier to create, deploy, and run applications by using containers.
 
-**Containers** allow a developer to package up an application with all of the parts it needs (libraries, dependencies...)
+- **Containers** allow a developer to package up an application with all of the parts it needs (libraries, dependencies...)
 
 **2. Components**
 
-[Link](https://viblo.asia/p/docker-nhung-kien-thuc-co-ban-phan-1-bJzKmM1kK9N)
+> [Link](https://viblo.asia/p/docker-nhung-kien-thuc-co-ban-phan-1-bJzKmM1kK9N)
 
 - **Docker Engine**:	create Docker Image and run Docker container
 - **Docker Hub**:	storage Docker Image
