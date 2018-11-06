@@ -1,6 +1,6 @@
 ### Overview Docker
 ***
-1. Definition
+**1. Definition**
 
 [Link](https://opensource.com/resources/what-docker)
 
@@ -8,7 +8,7 @@
 
 **Containers** allow a developer to package up an application with all of the parts it needs (libraries, dependencies...)
 
-2. Components
+**2. Components**
 
 [Link](https://viblo.asia/p/docker-nhung-kien-thuc-co-ban-phan-1-bJzKmM1kK9N)
 
