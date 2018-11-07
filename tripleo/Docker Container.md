@@ -1,6 +1,6 @@
 ### Understand Docker Container
 ***
-- In the undercloud:
+- Access to undercloud and investigate docker:
 > [tripleo@localhost ~]$ ssh stack@host_undercloud
 
 > [stack@undercloud ~]$ docker ps --no-trunc

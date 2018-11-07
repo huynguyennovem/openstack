@@ -16,8 +16,8 @@
 - **Docker Hub**:	storage Docker Image
 - **Docker Image**:	contains files, packages, used to run Docker container
 
-3. Advantage
-- make package for apps, such as: Web, backend, MySQL, Bigdata..
+**3. Advantage**
+- Make package for apps, such as: Web, backend, MySQL, Bigdata..
 - Docker Container has API which allow to manage containers
 - Docker Containers are compatible with Linux's app
 - Faster than VMs
